@@ -30,6 +30,7 @@ public class WebPagesApplication {
 	
 	public static void main(String[] args) {
 		logger.info("application started");
+		logger.info("application second statement 1111");
 		SpringApplication.run(WebPagesApplication.class, args);
 	}
 
